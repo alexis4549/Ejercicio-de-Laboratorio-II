@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1633581083 source:c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassFecha.h"
+	"ClassCanciones.h"
+	"ClassInterpretes.h"
+	"MenuCanciones.h"
+	"MenuInterpretes.h"
+	"MenuReportes.h"
+	"MenuConfiguracion.h"
+
+1633301838 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\classfecha.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1633486843 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\classcanciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassInterpretes.h"
+
+1633486302 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\classinterpretes.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+
+1633581547 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\menucanciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassCanciones.h"
+
+1633614461 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\menuinterpretes.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassInterpretes.h"
+
+1633614461 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\menureportes.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassCanciones.h"
+	"ClassInterpretes.h"
+	"MenuCanciones.h"
+	"MenuInterpretes.h"
+	"Parcial_Franco.h"
+
+1633581660 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\menuconfiguracion.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1633616203 c:\users\alexi\downloads\tsp frgp\tercer cuatrimestre\2-laboratorio 2\parcial 1\proyecto\parcial1\parcial_franco.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ClassCanciones.h"
+	"ClassInterpretes.h"
+	"MenuCanciones.h"
+	"MenuInterpretes.h"
+
